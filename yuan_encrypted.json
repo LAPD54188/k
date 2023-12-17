@@ -1,0 +1,28 @@
+{
+  "sourceDescription" : "源的简单描述",
+  "sourceProcessor" : {
+    "appsUnlock" : {
+      "authUrl" : "",
+      "actions" : [
+        {
+          "title" : "联系作者",
+          "openUrl" : "https:\/\/nyxz166.cn\/GBox"
+        }
+      ],
+      "description" : "此源需要联系作者授权"
+    }
+  },
+  "version" : "1.1.2",
+  "sourceImage" : "http:\/\/xxx.com\/src.png",
+  "sourceUnlockHash" : "97d8f495f68b62b3ba1dff96fbe2de69",
+  "sourceAuthor" : "Rosi",
+  "sourceLinkTitle" : "主页",
+  "appRepositories" : "AwGSbWB7SSlBm0t08w6\/2SLUzfjPe5Gqhcxpl\/yF8bXlVaA4SVd\/jPkwVIT+PB\/N3lcRrBvUaabaeGMSpXGg8y+q7Y3\/6UU7JFjmbqs63jLqA0iLddVrIoF60Pt4UTDnb\/8iDsLXgshhujcwHJSYlYmYtIYyU2pfhYuywP8ca9UtnHcSdXu4z47rHMU6qYdjSpYplh4CeI64SnIQCrYSF6437FglOwmpH+qBhyskK0bL3gOJcgWyHxc23weDXf8ltX\/SVXyjgfAJidzGaRh2ELhRd9UNZjzPdxpXfDV0eONmG0GXdxVojV1ElYD4pIHP0fXlOzl78xWL2ejh9iwHTzq6Q+F\/t+HqKq8Mzm6YJ\/JN1IS+Q6pfrGIdyAaUbz\/XwiTnb4oxVW8UuKKZP1M7e7IvsRjKZagtDEukfvfnRt5HcSmFfGkfGXI2OiGf1dQhRzbAtLd2HTmbPKm9CTkuNIfBhxrtVCWTK+oOWTQBWRCS\/W7T6upYYT0kHA\/IWwk\/iHzLrLmVlGzID4v1taO+237pccy45Zw1IckY7qkcxNs01hS73sAdh3Vchx05ywrrkQ0EU31ATky34iOFpxUVIWWudjFSKr5zdaRBLnoqiYPWncGhGivqNxUxP83XQaM17S3ToSI+2KhaqAaE\/qQLef8QEKCu3wPvorbpqQooV3NV+Nj48KBGCs86fCt9dxgOhfums5yiqwB7soXGnmAgSbHwrfSXMc02bgk+FRObyquLAjaesuv0rVlY1BEf0F0q67AqWj6nBo88rlB3KGYLLzrF3Z+rlhr2x\/fjhRcPH4WWn1SO9xVAx5L97ebzKGn1jUHsCSbcY+o0gM0eJ2iGYQXAmGXMuAofgFiqYVjU1tE+FzH\/IZWtFv1GHnX4vV4qeNWpjf72L7+pj0uxNOWt6JTOHij5XgAFmhN\/94Usoy9mZf6EAxcGeR1ZLne8CTKN1cuHucfJrMsRfiJlFXA1ECpEBmbo84DVDz1nnRXocVL1tUwSBrMrI+xsU0VexcJ+c2qPPsvAsEuwO94mi7dKI8kuRsgZ8cDo9vZ2v+QWSNoTaruw4w6tcPOI+6j55uifRcIlXnFGQgm4QOkGR20trNMq33Z3ZzGhTarvudVfCRNmLMxk3vtY0LxeDaX\/P+4QooJmtQ\/NkN7Xy0H0eOErnLGKlS26iGOqD3xYXOHLnqwQ\/spwLErIjWaadMQY+nYQguijmtYeXIu0GhL2k2SvtHSHme9fMiuifIoauQ6HlINd2N5x+91LhnjI7czHY2SVUx07Qy\/5aiXheEOmqkW3VUilS8DwLyeZb78Xd6U4Fgnm1CowAKpQmnyT7Taza29W\/H84rBH6Uc3\/HVpAwIm\/nmpGM+L2JQaE\/QB4\/OtrBYpRLyWqhnSqHdDvbT0ko7+hMf9ZFyhDZ3xTKK5Qm5RIWS8h9TJAUgeY1anpvV9FpMWD7w==",
+  "sourceName" : "GTA源",
+  "appCategories" : [
+    "福利",
+    "工具"
+  ],
+  "sourceLinkUrl" : "https:\/\/gbox.run",
+  "sourceUpdateTime" : "2023-12-17T13:20+0800"
+}
