@@ -1,0 +1,36 @@
+{
+  "appType" : "ENT_SIGN",
+  "appImage" : "http:\/\/gbox.10085.ink\/static\/head2.png",
+  "sourceDescription" : "GTA官方源",
+  "appCategories" : [
+    "分类1",
+    "分类2"
+  ],
+  "sourceProcessor" : {
+    "appsUnlock" : {
+      "authUrl" : "http:\/\/x.xyaqz.cn\/file?go=1&downfile=\/auth.php",
+      "actions" : [
+        {
+          "title" : "联系作者",
+          "openUrl" : "baidu.com"
+        }
+      ],
+      "description" : "联系获取"
+    }
+  },
+  "appUpdateTime" : "2023-6-24T9:30:00+0800",
+  "appVersion" : "1.0",
+  "sourceLinkTitle" : "官网",
+  "sourceUpdateTime" : "2023-12-22T+0800 下午11:51+0800",
+  "appPackage" : "http:\/\/gbox.10085.ink\/static\/test.ipa",
+  "sourceName" : "GTS",
+  "version" : "1.0",
+  "appCateIndex" : 1,
+  "appName" : "应用",
+  "sourceAuthor" : "GTS",
+  "appRepositories" : "AwGuD7Col1IY2A1LF1dOLvCBu9ZSVDUtZnGZO0HQ5EZLV1E0zP8ziwd4Hn029+PpFgtJeC2V82hTV50H6QQpKhDiY9eV2lfZIJouf7wR\/BZl0mjmlhBw3aqOJE4PYktamDSDBavgISZSKn1AT4AM8iynCuVzRcdbqh2EiXQuqvC8QQBFvSVJTKkOav73ZjlFw4xEiyruLuQipeF65iq8itzYASlhreOGjjDccfuEnUJp2TqCpx9lf3kCXtLEKfQkhH4jmjwp2QXls5FYTny9s6lvFWxp7WCEeAQHZjIHcZc3+JLGYqwCpiLPy56M3mGuSgjybV2jylXdxuTtAQihiOx\/N+1dSPc5dvV3QK+gY+GPMjKfj7zA3MX9jPorZzasXtDFTYq7j49pC\/fMOqPm36FuZVTfvshQ1QT8P2qwL+Z+Ur6CuvA7Jh4cNPfhhK\/GEU4VFbBLmRv9Y57VEoiR5FWQMbhTtGuB6nN+cUFUdLpJvVaWqiAyqz1sg8JuZ3\/RyHy4gm46YC7hIbrwQ+cuWswzSYOaShIN1coyMLgZDrpyVvvrtGTK9uSY\/ebtvksqHlltUWz6dE61M9aPlshIZPmyYfZk87UR9Nd4b637yUhtTb0GyPCxj7vMO0tUEy2zy7yIyLlukJ3ce8knlI5onIpH120zjJC7l6GDriopioPBKTolLLG8NiOI6JmloE6oFQytR7p6+HNgtdrJPKYoUXyxRodJvegjezq6IjorzBEfEEYhNhM6NH2gASVujayPTu83kUgwTDdpSU0gsuxWeGDzFdP0G0G0uEGoWuHBefjdxw==",
+  "sourceImage" : "https:\/\/s11.ax1x.com\/2023\/12\/22\/pi71vxf.jpg",
+  "sourceLinkUrl" : "http:\/\/store.yjwlgf.top",
+  "lock" : true,
+  "appDescription" : "应用介绍"
+}
